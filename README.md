@@ -1189,12 +1189,12 @@ contact.html:
 
 ## OUTPUT:
 home page:
-![alt text](<Screenshot 2024-12-26 110350.png>)
+![image](https://github.com/user-attachments/assets/9f6605af-c1c4-40b2-876d-c94707981b09)
 menu page:
-![alt text](<Screenshot 2024-12-26 110448.png>)
+![image](https://github.com/user-attachments/assets/9db8406e-6cd1-47f2-a793-60f646f310fe)
 admin page:
-![alt text](<Screenshot 2024-12-26 110528.png>)
+![image](https://github.com/user-attachments/assets/a07d1717-9ed2-46fe-80d0-22459d449309)
 contact page:
-![alt text](<Screenshot 2024-12-26 110612.png>)
+![image](https://github.com/user-attachments/assets/99f141fb-623a-40bc-a689-a6815c0b9d86)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
